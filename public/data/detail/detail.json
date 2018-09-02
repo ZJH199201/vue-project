@@ -1,0 +1,215 @@
+{
+	"realInfoList": [{
+		"width": 750,
+		"customerGroup": ["1"],
+		"url": "https:\/\/m.secoo.com\/appActivity\/secoo_jd1201.shtml?share=nativeShare",
+		"height": 420,
+		"imgUrl": "https:\/\/pic16.secooimg.com\/imagesNew\/featuresPic\/sk_index_171111\/tu2@2x.png"
+	}],
+	"promotionInfo": {},
+	"preSale": "",
+	"kuChequeInfo": {
+		"img": "https:\/\/mpic.secooimg.com\/images\/2016\/09\/29\/Group@3x.png",
+		"title": "库支票分期",
+		"subTitle": "月供￥1066.83 × 12期"
+	},
+	"shareInfo": {
+		"content": "我在寺库发现了仅售12,802元的【杨幂同款】CHLOE\/克洛伊 Nile小牛皮黑色女士小号手镯式两用单肩包# C17US301 HEU 001 黑色 均码 黑色 均码",
+		"icon": "https:\/\/pic12.secooimg.com\/product\/500\/500\/49\/10\/1ffba26aa4754351a2523cb1faeec409.jpg",
+		"url": "https:\/\/m.secoo.com\/detail\/32247506",
+		"title": "我在寺库发现了仅售12,802元的CHLOE单肩包，赶紧来看看吧",
+		"isActivity": 0,
+		"miniUrl": "https:\/\/m.secoo.com\/wxscmp?mpid=4&t=1&id=32247506"
+	},
+	"serviceList": [{
+		"desc": "全国权威奢侈品鉴定机构，对发送至您手中的每一件商品进行专业鉴定，极致鉴定，细心甄选，100%正品保证，假一赔十，请您放心购买。",
+		"name": "假一赔十",
+		"icon": "https:\/\/mpic.secooimg.com\/images\/2017\/08\/14\/zhengpindetail@2x.png"
+	}, {
+		"desc": "普通会员配送费用由系统根据订单收取，国内订单20元／单；海外订单50元／单。\n寺库银卡以上会员，根据不同等级，有不同次数的免运费权益，升级为会员即可享受 。\n其他情况\n1、支付时如配送方式选择到店自提，则不收取运费\n2、如使用免运费特权后，订单未发出时取消整单，则免运费次数自动退回\n3、如有退货、拒签等情况，免运费次数不予退回。",
+		"name": "会员免邮",
+		"icon": "https:\/\/mpic.secooimg.com\/images\/2017\/02\/09\/no_deliver_fee@2x.png"
+	}, {
+		"desc": "寺库奢侈品鉴定评估技术中心是国内领先的权威奢侈品鉴定评估机构，拥有专业的技术设备和完善的管理流程，汇集了国内外的资深鉴定师；中心创建奢侈品核心验真特征数据库，拥有十余项国家专利，负责起草五项国家标准；中心通过 ISO9001 国际质量管理体系认证，与国家皮革质检中心联合成立了“至一工作站”，与中国质量认证中心达成战略合作关系。",
+		"name": "权威鉴定",
+		"icon": "https:\/\/mpic.secooimg.com\/images\/2017\/02\/09\/identity@2x.png"
+	}, {
+		"name": "不支持七天退货",
+		"icon": "https:\/\/mpic.secooimg.com\/images\/2017\/02\/09\/not_exchange@2x.png"
+	}],
+	"modelSort": [ {
+		"title": "商品",
+		"type": 1
+	}, {
+		"title": "评论",
+		"type": 2
+	}, {
+		"title": "详情",
+		"type": 3
+	},{
+		"title": "推荐",
+		"type": 4
+	}],
+	"maintainInfo": {},
+	"button": {
+		"buttonList": [{
+			"enable": "1",
+			"type": "0",
+			"title": "加入购物袋",
+			"color": "1A191E"
+		}, {
+			"enable": "1",
+			"type": "1",
+			"title": "立即购买",
+			"color": "E93B39"
+		}]
+	},
+	"retCode": 0,
+	"memberUrl": "https:\/\/android.secoo.com\/appActivity\/memberUp.shtml?pageid=1447&backRef=proDetail",
+	"realInfo": {
+		"url": "https:\/\/m.secoo.com\/appActivity\/secoo_jd1201.shtml?share=nativeShare",
+		"width": 750,
+		"height": 420,
+		"imgUrl": "https:\/\/pic16.secooimg.com\/imagesNew\/featuresPic\/sk_index_171111\/tu2@2x.png"
+	},
+	"brandFlagship": {
+		"contentType": "1",
+		"contentLink": "https:\/\/las.secoo.com\/api\/topic\/topic_list_new?id=30399&pageid=topicNew\/30399",
+		"title": "CHLOE\/克洛伊",
+		"numTexta": "件",
+		"img": "http:\/\/pic12.secooimg.com\/brand\/16\/5\/db444ab72f0b423a8d8d693731763d9d.jpg",
+		"productNum": 1485,
+		"numText": "在售商品"
+	},
+	"pickupInfo": {},
+	"wecharManage": {
+		"wechar": "secoo555",
+		"title": "微信管家",
+		"type": "1",
+		"subTitle": "点击复制管家微信号",
+		"wecharDesc": "添加微信管家为您一对一寻货",
+		"popup": "寺库管家微信secoo555复制到剪切板，请去微信添加好友"
+	},
+	"productInfo": {
+		"detail": [
+			{
+			"type": "0",
+			"width": "750",
+			"height": "750",
+			"info": "http:\/\/pic12.secooimg.com\/imgextra\/1\/0\/49\/51\/1VQbFc139c85916eb943028a27b0dfca872c04.jpg"
+		}, {
+			"type": "0",
+			"width": "750",
+			"height": "750",
+			"info": "http:\/\/pic12.secooimg.com\/imgextra\/1\/0\/10\/98\/1VQbFafb364e5c8e2a408894758aa9608f2cbf.jpg"
+		}, {
+			"type": "0",
+			"width": "750",
+			"height": "750",
+			"info": "http:\/\/pic12.secooimg.com\/imgextra\/1\/0\/56\/49\/1VQbFb81f6d2924b384439b48a1ff08436a5b8.jpg"
+		}, {
+			"type": "0",
+			"width": "750",
+			"height": "750",
+			"info": "http:\/\/pic12.secooimg.com\/imgextra\/1\/0\/97\/10\/1VQbFbae552cd10740455a8a42e46d666ec54c.jpg"
+		}, {
+			"type": "0",
+			"width": "750",
+			"height": "750",
+			"info": "http:\/\/pic12.secooimg.com\/imgextra\/1\/0\/99\/53\/1W47isc52580c766484f0fbf39300ff4c02ab7.jpg"
+		}, {
+			"type": "0",
+			"width": "750",
+			"height": "750",
+			"info": "http:\/\/pic12.secooimg.com\/imgextra\/1\/0\/10\/99\/1W47itecfc4669a50d4ba792296db12d39ef3f.jpg"
+		}, {
+			"type": "0",
+			"width": 750,
+			"height": 506,
+			"info": "https:\/\/pic12.secooimg.com\/product\/common\/product-desc\/app_price_description-min.png"
+		}
+	],
+		"tax": "预计税金",
+		"taxTitleLine": 1,
+		"isFavorite": 0,
+		"priceInfo": {
+			"nowPrice": "¥ 12,802",
+			"tagBorderColor": "E93B39",
+			"tagTextColor": "E93B39",
+			"priceTagListNew": [{
+				"type": 0,
+				"desc": "商品进口所产生的跨境电商综合税由寺库承担",
+				"tag": "包税"
+			}, {
+				"tag": "自营"
+			}],
+			"tagBgColor": "",
+			"nowPriceNum": "12802",
+			"nowPriceColor": "E93B39",
+			"otherPriceColor": "999999"
+		},
+		"totalInventoryInfo": "仅剩1件",
+		"areaIcon": "https:\/\/mpic.secooimg.com\/images\/2017\/02\/09\/hongkong@2x.png",
+		"imgGap": 5,
+		"categoryId": 31,
+		"attrList": [{
+			"name": "商品编号",
+			"value": "32247506"
+		}, {
+			"name": "适用人群",
+			"value": "女士"
+		}, {
+			"name": "材质",
+			"value": "小牛皮"
+		}, {
+			"name": "产地",
+			"value": "意大利（由于批次不同，商品产地请以实物为准。）"
+		}, {
+			"name": "尺寸",
+			"value": "19.5长*16高*6.5宽(cm)"
+		}, {
+			"name": "肩带尺寸",
+			"value": "可调节可拆卸，约58cm"
+		}, {
+			"name": "内部结构",
+			"value": "内置标贴，1个手机平袋"
+		}, {
+			"name": "颜色",
+			"value": "黑色"
+		}, {
+			"name": "开合方式",
+			"value": "翻盖开合"
+		}, {
+			"name": "外部结构",
+			"value": "正面悬垂手镯腕环，金属配件，背面1个贴袋"
+		}, {
+			"name": "附属肩带",
+			"value": "有"
+		}],
+		"sendType": 0,
+		"taxDesc": "海外仓库发货商品需向中国海关申报及纳税，若配送期间产生税费，需要您配合办理当地海关缴纳手续，凭缴税凭证可联系寺库客服报销",
+		"deliverInfo": "预计5-10个工作日内送达",
+		"source": 3,
+		"brandEnName": "CHLOE",
+		"brandId": 33,
+		"taxTitle": "预计税金:¥ 3,674.17",
+		"title": "【杨幂同款】 Nile小牛皮黑色女士小号手镯式两用单肩包# C17US301 HEU 001 黑色 均码 黑色 均码",
+		"areaName": "香港货源",
+		"type": 1,
+		"subTitle": "",
+		"imgList": ["https:\/\/pic12.secooimg.com\/product\/500\/500\/49\/10\/1ffba26aa4754351a2523cb1faeec409.jpg", "https:\/\/pic12.secooimg.com\/product\/500\/500\/99\/50\/c2bfcf6ae2aa47b3945283934696cdac.jpg", "https:\/\/pic12.secooimg.com\/product\/500\/500\/53\/10\/5f80cf94c3bf4d5ba7b3bb33f08bb5ae.jpg", "https:\/\/pic12.secooimg.com\/product\/500\/500\/53\/99\/5c9ae736e6444ed796ce48792502d26a.jpg", "https:\/\/pic12.secooimg.com\/product\/500\/500\/56\/51\/838c69b85cd540a5bf3ef137ccbc0f7e.jpg"],
+		"propertyTagInfo": {
+			"tagList": [{
+				"tag": "自营"
+			}]
+		}
+	},
+	"brandName": "CHLOE\/克洛伊",
+	"mobileService": {
+		"mobile": "4008756789",
+		"subTitle": "8:00-24:00",
+		"title": "电话客服",
+		"mobileDesc": "请致电400-87-56789"
+	},
+	"instalmentStatus": 0
+}
